@@ -43,6 +43,7 @@ const content= (
                 <p><a className="btn btn-outline-secondary" href="research">Rechercher »</a></p>
             </div>
         </div>
+        <a className="btn btn-outline-danger" href="test">Test tableau »</a>
     </div>
 )
 

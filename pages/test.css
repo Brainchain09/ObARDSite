@@ -1,0 +1,24 @@
+td {
+
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid white;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #34485e;
+    color: white;
+
+}
+
+table {
+
+    text-align: center;
+    margin: auto;
+    border-spacing: 10px;
+    border-collapse: separate;
+    background-color: #34485e;
+    color: white;
+    border-radius: 10px;
+
+}

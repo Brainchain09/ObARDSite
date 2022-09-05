@@ -11,6 +11,7 @@ import Head from "next/head";
 import 'rc-slider/assets/index.css'
 import 'reactjs-popup/dist/index.css';
 import '../global-styles.css'
+import './test.css'
 
 export default function App({ Component, pageProps }) {
   return (
